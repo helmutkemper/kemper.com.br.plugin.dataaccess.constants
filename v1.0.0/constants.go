@@ -1,4 +1,4 @@
-package constants
+package v1_0_0
 
 // main menu
 const (
